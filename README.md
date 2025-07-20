@@ -59,7 +59,7 @@ Public bike-share data provided by Motivate International Inc., covering:
 
 🔗 [View Tableau Dashboard][https://public.tableau.com/app/profile/sidney.dang/viz/CasualvsMemberRidePatternsCyclisticAnalysis/CyclisticDashboard]
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Cyclistic_dashboard.png)
 
 ---
 
