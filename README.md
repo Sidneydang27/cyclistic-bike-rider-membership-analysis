@@ -76,10 +76,8 @@ Public bike-share data provided by Motivate International Inc., covering:
 | File | Description |
 |------|-------------|
 | `README.md` | Project documentation |
-| `data_prep.sql` | SQL script to clean and prepare data |
-| `analysis.sql` | SQL queries for analysis and insights |
+| `cyclistic_case_study.sql` | SQL script to clean, prepare, and analyze data |
 | `images/` | Tableau screenshots |
-| `Cyclistic_Case_Study_Report.pdf` | Full report summary (optional) |
 
 ---
 
