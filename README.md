@@ -1,4 +1,4 @@
-# 🚲 Cyclistic Bike-Share Case Study
+# 🚲 Cyclistic Bike-Rider Membership Analysis
 
 ## 📌 Project Overview
 
