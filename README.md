@@ -89,6 +89,16 @@ Public bike-share data provided by Motivate International Inc., covering:
 
 ---
 
+
+## 📜 License
+
+This project is licensed under the 
+[Creative Commons BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+You may view and learn from the content, but **you may not reuse, redistribute, or modify it** for commercial or derivative purposes without permission.
+
+
 ## 💬 Contact
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sidney-dang) or email at kyledang2711@gmail.com if you'd like to discuss this project or any opportunities.
+
