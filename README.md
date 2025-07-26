@@ -15,7 +15,25 @@ Using 12 months of trip data, I cleaned, transformed, and analyzed usage behavio
 ## 🛠 Tools Used
 
 - **MySQL** for data cleaning, transformation, and analysis
-- **Tableau Public** for visualization
+- **Tableau** for visualization
+- **Excel** for preliminary review
+
+---
+
+## 🧪 Key Steps
+
+**1. Ask**: What differences exist between casual riders and annual members?
+
+**2. Prepare**: Combined 12 monthly CSV files, standardized datetime columns
+
+**3. Process**: Removed nulls, calculated ride length, flagged outliers
+
+**4. Analyze**: Compared user types by ride length, day of week, rideable type
+
+**5. Share**: Created visual dashboard in Tableau (link below)
+
+**6. Act**: Provided recommendations to marketing team
+
 
 ---
 
